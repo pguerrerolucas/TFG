@@ -1,0 +1,20 @@
+{
+    "dqn": {
+        "mean_reward": 0.028492473751860325,
+        "std_reward": 0.027745780076325475,
+        "mean_diversity": 0.137,
+        "mean_relevance": 0.137
+    },
+    "ddpg": {
+        "mean_reward": -0.05339313576711838,
+        "std_reward": 0.004330789877395848,
+        "mean_diversity": 0.04999999999999999,
+        "mean_relevance": 0.04999999999999999
+    },
+    "a2c": {
+        "mean_reward": 0.10111830582395319,
+        "std_reward": 0.11412221320767511,
+        "mean_diversity": 0.21700000000000003,
+        "mean_relevance": 0.214
+    }
+}
